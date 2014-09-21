@@ -8,7 +8,9 @@ Gem::Specification.new do |s|
   s.email       = 'palladiusbonton@gmail.com'
   s.files       = [
       "lib/iloveyou.rb", 
-      "Makefile",    
+      "Makefile",
+      "Rakefile",
+      "Gemfile",
   ]
   s.homepage    = 'http://rubygems.org/gems/iloveyou'
   s.license     = 'Apache License'
